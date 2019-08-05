@@ -1,4 +1,4 @@
-module dataservice
+module github.com/dexinq/dataservice
 
 go 1.12
 
