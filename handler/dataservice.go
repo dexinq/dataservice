@@ -5,7 +5,7 @@ import (
 
 	"github.com/micro/go-micro/util/log"
 
-	dataservice "dataservice/proto/dataservice"
+	dataservice "github.com/dexinq/dataservice/proto"
 )
 
 type Dataservice struct{}
