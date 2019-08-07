@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/dexinq/controller v0.0.0-20190805095539-3cfb6d2f481e
+	github.com/dexinq/utils v0.0.3
 	github.com/golang/protobuf v1.3.2
 	github.com/marten-seemann/qpack v0.1.0 // indirect
 	github.com/micro/go-micro v1.8.1

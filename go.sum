@@ -39,6 +39,9 @@ github.com/dexinq/controller v0.0.0-20190805095539-3cfb6d2f481e h1:r8yA713OCH3jB
 github.com/dexinq/controller v0.0.0-20190805095539-3cfb6d2f481e/go.mod h1:46TcFqQRxMpNCrrob5H5XYwD1Fed41zVIWm4D4/ODz4=
 github.com/dexinq/sdn_global v0.0.0-20190805082435-914d21c8d4c9/go.mod h1:5H7Gcfqj0DtGI8NiSmVvAZKZXICnSUetpJP+/GU0jUM=
 github.com/dexinq/utils v0.0.0-20190805091305-a958c7287e86 h1:fqFfGJ0fXK+BGaX3ztcnbkv4ra1IXwMCNEtBjvx8z4M=
+github.com/dexinq/utils v0.0.0-20190805091305-a958c7287e86/go.mod h1:qEQjo9Dyay2AEIpxyDt0ULD5MgM7oCBoU8ADCKgO0fA=
+github.com/dexinq/utils v0.0.3 h1:JlkgmaOBRAFDlMpKptVX6tiqb/EsCpCxX3rAImoJJug=
+github.com/dexinq/utils v0.0.3/go.mod h1:cZqnHhM3QM8085BEODloSrVuIpFIH9WLzv/9JuPOvVQ=
 github.com/docker/docker v0.7.3-0.20190309235953-33c3200e0d16/go.mod h1:eEKB0N0r5NX/I1kEveEz05bcu8tLC/8azJZsviup8Sk=
 github.com/docker/go-connections v0.4.0/go.mod h1:Gbd7IOopHjR8Iph03tsViu4nIes5XhDvyHbTtUxmeec=
 github.com/docker/go-units v0.4.0/go.mod h1:fgPhTUdO+D/Jk86RDLlptpiXQzgHJF7gydDDbaIK4Dk=
